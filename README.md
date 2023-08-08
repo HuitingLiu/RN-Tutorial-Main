@@ -21,8 +21,10 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 7. Basic
 8. View Layout
 9. ScrollView
-10. FlatList / SectionList
+10. FlatList & SectionList
 11. TextInput
 12. Pressable
 13. Alert
 14. Modal
+15. [Image & ImageBackground](https://youtu.be/ANdSdIlgsEw?t=7298)
+16. [Custom Components and Props](https://youtu.be/ANdSdIlgsEw?t=7639)
