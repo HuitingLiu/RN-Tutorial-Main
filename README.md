@@ -28,3 +28,8 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 14. Modal
 15. [Image & ImageBackground](https://youtu.be/ANdSdIlgsEw?t=7298)
 16. [Custom Components and Props](https://youtu.be/ANdSdIlgsEw?t=7639)
+17. [React Navigation V5 Stack Navigator](https://youtu.be/ANdSdIlgsEw?t=8182)
+18. [React Navigation V5 Tab Navigator Material Tags at Bottom and Top](https://youtu.be/ANdSdIlgsEw?t=8730)
+19. [React Navigation V5 Drawer Navigation Slide Menu](https://youtu.be/ANdSdIlgsEw?t=9483)
+20. [React Navigation V5 Passing Data Between Screens](https://youtu.be/ANdSdIlgsEw?t=10032)
+21. [Debugging in VS code](https://youtu.be/ANdSdIlgsEw?t=10277)
