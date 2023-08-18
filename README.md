@@ -33,3 +33,7 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 19. [React Navigation V5 Drawer Navigation Slide Menu](https://youtu.be/ANdSdIlgsEw?t=9483)
 20. [React Navigation V5 Passing Data Between Screens](https://youtu.be/ANdSdIlgsEw?t=10032)
 21. [Debugging in VS code](https://youtu.be/ANdSdIlgsEw?t=10277)
+22. [Custom Font in React Native CLI & Expo Projects](https://youtu.be/ANdSdIlgsEw?t=10937)
+23. [Global Styles & How to Use Custom Fonts Globally in Project](https://youtu.be/ANdSdIlgsEw?t=11411)
+24. [AsyncStorage - How to Make an Offline Login with Async Storage](https://youtu.be/ANdSdIlgsEw?t=11702)
+25. [SQLite Database - How to Make an Offline Login with SQLite](https://youtu.be/ANdSdIlgsEw?t=12753)
