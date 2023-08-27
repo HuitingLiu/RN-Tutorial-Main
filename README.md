@@ -37,3 +37,5 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 23. [Global Styles & How to Use Custom Fonts Globally in Project](https://youtu.be/ANdSdIlgsEw?t=11411)
 24. [AsyncStorage - How to Make an Offline Login with Async Storage](https://youtu.be/ANdSdIlgsEw?t=11702)
 25. [SQLite Database - How to Make an Offline Login with SQLite](https://youtu.be/ANdSdIlgsEw?t=12753)
+26. [Redux State Management](https://youtu.be/ANdSdIlgsEw?t=13529)
+27. [How to Fetch Data from an API Using Redux](https://youtu.be/ANdSdIlgsEw?t=14313)
