@@ -39,3 +39,5 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 25. [SQLite Database - How to Make an Offline Login with SQLite](https://youtu.be/ANdSdIlgsEw?t=12753)
 26. [Redux State Management](https://youtu.be/ANdSdIlgsEw?t=13529)
 27. [How to Fetch Data from an API Using Redux](https://youtu.be/ANdSdIlgsEw?t=14313)
+28. [Local & Scheduled Push Notification](https://youtu.be/ANdSdIlgsEw?t=14776)
+29. [Push Notification with firebase - remote notification](https://youtu.be/ANdSdIlgsEw?t=15656)
