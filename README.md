@@ -41,3 +41,7 @@ If you download or clone the repo, you will need to run "npm install" in the pro
 27. [How to Fetch Data from an API Using Redux](https://youtu.be/ANdSdIlgsEw?t=14313)
 28. [Local & Scheduled Push Notification](https://youtu.be/ANdSdIlgsEw?t=14776)
 29. [Push Notification with firebase - remote notification](https://youtu.be/ANdSdIlgsEw?t=15656)
+30. [Google Maps](https://youtu.be/ANdSdIlgsEw?t=16076)
+31. [RN Camera with hooks](https://youtu.be/ANdSdIlgsEw?t=16637)
+32. [Testing Jest and React Test Renderer](https://youtu.be/ANdSdIlgsEw?t=17239)
+33. [ToDo List App](https://youtu.be/ANdSdIlgsEw?t=17889)
